@@ -5,6 +5,11 @@ I love working on distributed systems, cloud infrastructure and CLI tooling, whi
 
 ## Projects
 
+- [God](https://github.com/philippta/god)
+
+  God is a pretty Go debugger frontend for delve, that
+  just gets the job done.
+
 - [Flyscrape](https://github.com/philippta/flyscrape)
 
   Flyscrape is a modern toolkit for building custom scrapers in
